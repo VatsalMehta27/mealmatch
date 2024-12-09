@@ -12,3 +12,4 @@ torch
 recipe-scrapers
 rapidfuzz
 requests
+aiohttp

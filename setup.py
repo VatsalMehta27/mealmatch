@@ -22,5 +22,6 @@ setup(
         "recipe-scrapers",
         "rapidfuzz",
         "requests",
+        "aiohttp",
     ],
 )
