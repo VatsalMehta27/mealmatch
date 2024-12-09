@@ -1,7 +1,11 @@
 import chromadb
+import os
 
-# Initialize ChromaDB client for persistent storage
-client = chromadb.PersistentClient(path="./chromadb")
+# Get the project root directory
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
+
+# Initialize a persistent ChromaDB client to store agent memory
+database = chromadb.PersistentClient(path=f"{project_root}/chromadb")
 
 
 def access_memory(query: str, n_results: int = 1) -> list[dict]:
@@ -16,7 +20,7 @@ def access_memory(query: str, n_results: int = 1) -> list[dict]:
         list[dict]: A list of retrieved documents matching the query.
     """
     # Get or create a 'memory' collection for storing and retrieving recipes
-    collection = client.get_or_create_collection(name="memory")
+    collection = database.get_or_create_collection(name="memory")
 
     # Query the collection and retrieve the specified number of results
     results = collection.query(
