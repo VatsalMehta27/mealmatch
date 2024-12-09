@@ -1,0 +1,14 @@
+numpy
+transformers
+beautifulsoup4
+chromadb
+openai
+scikit-learn
+matplotlib
+python-dotenv
+gradio
+tqdm
+torch
+recipe-scrapers
+rapidfuzz
+requests

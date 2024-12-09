@@ -1,0 +1,602 @@
+[
+  {
+    "request": "Can you share a vegan pasta recipe?",
+    "recipe": "Ingredients: 200g spaghetti, 2 cups tomato sauce, 1 cup mushrooms, 1 cup spinach, 2 tbsp olive oil. Instructions: Cook spaghetti. Sauté mushrooms and spinach in olive oil. Mix with tomato sauce and serve.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you share a gluten-free dessert recipe?",
+    "recipe": "Ingredients: 1 cup almond flour, 1/4 cup honey, 1/4 cup cocoa powder. Instructions: Mix ingredients, form balls, and chill.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Do you have a recipe with chicken and rice?",
+    "recipe": "Ingredients: 1 cup quinoa, 1 cup vegetables, 1 tsp olive oil. Instructions: Cook quinoa and sauté vegetables in olive oil. Mix and serve.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a recipe for spicy curry?",
+    "recipe": "Ingredients: 2 cups coconut milk, 1 tbsp curry paste, 1 cup cauliflower, 1 cup chickpeas. Instructions: Heat coconut milk, stir in curry paste, add vegetables, and simmer.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you share a dairy-free cake recipe?",
+    "recipe": "Ingredients: 1 cup flour, 1/2 cup almond milk, 1/2 cup sugar, 1/4 cup vegetable oil. Instructions: Mix ingredients, pour into a pan, and bake at 350°F for 30 minutes.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Do you have a recipe for apple pie?",
+    "recipe": "Ingredients: 2 cups apples, 1 cup cinnamon, 1/2 cup sugar. Instructions: Mix ingredients and serve chilled.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you provide a recipe with avocado and eggs?",
+    "recipe": "Ingredients: 1 avocado, 2 eggs, 1 tsp olive oil, salt, and pepper. Instructions: Mash avocado, cook eggs sunny-side-up, and serve together.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Do you have a low-sugar cookie recipe?",
+    "recipe": "Ingredients: 1 cup sugar, 1/4 cup butter, 1 cup flour. Instructions: Mix ingredients, form cookies, and bake at 375°F for 15 minutes.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a recipe with garlic and lemon?",
+    "recipe": "Ingredients: 2 chicken breasts, 1 lemon, 3 cloves garlic, 2 tbsp olive oil. Instructions: Marinate chicken in lemon juice and minced garlic. Cook in olive oil and serve.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Do you have a soup recipe with pumpkin?",
+    "recipe": "Ingredients: 2 cups pumpkin puree, 1 cup cream, 1 cup vegetable broth. Instructions: Blend ingredients, heat in a pot, and serve warm.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you provide a keto-friendly dinner recipe?",
+    "recipe": "Ingredients: 200g chicken breast, 1 cup broccoli, 1 tbsp olive oil. Instructions: Cook chicken and broccoli in olive oil. Serve together.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Do you have a nut-free energy bar recipe?",
+    "recipe": "Ingredients: 1 cup oats, 1/4 cup honey, 1 cup raisins. Instructions: Mix ingredients, press into a tray, and refrigerate.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you share a vegetarian lasagna recipe?",
+    "recipe": "Ingredients: 2 cups marinara sauce, 1 cup ricotta, 2 cups spinach, 200g lasagna noodles. Instructions: Layer ingredients and bake at 375°F for 45 minutes.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Do you have a sugar-free smoothie recipe?",
+    "recipe": "Ingredients: 1 banana, 1 cup spinach, 1 cup almond milk. Instructions: Blend ingredients until smooth.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you provide a paleo dessert recipe?",
+    "recipe": "Ingredients: 1 cup almond flour, 1/4 cup honey, 1/4 cup cocoa powder. Instructions: Mix ingredients, roll into balls, and chill.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Do you have a recipe for gluten-free bread?",
+    "recipe": "Ingredients: 1 cup wheat flour, 1/2 cup milk, 1 tsp baking powder. Instructions: Mix ingredients and bake at 350°F for 30 minutes.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a quick breakfast recipe?",
+    "recipe": "Ingredients: 2 slices bread, 1 egg, 1 slice cheese. Instructions: Toast bread, fry egg, and assemble sandwich.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Do you have a vegan soup recipe?",
+    "recipe": "Ingredients: 1 cup lentils, 2 cups vegetable broth, 1 cup diced tomatoes, 1 cup carrots. Instructions: Simmer ingredients in a pot for 30 minutes.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you share a recipe with chocolate and peanut butter?",
+    "recipe": "Ingredients: 1 cup peanut butter, 1 cup chocolate chips, 1/4 cup sugar. Instructions: Melt ingredients together and pour into a tray to cool.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Do you have a low-fat dinner recipe?",
+    "recipe": "Ingredients: 1 cup brown rice, 1 cup grilled chicken, 1 cup steamed broccoli. Instructions: Assemble and serve.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you provide a recipe with strawberries and cream?",
+    "recipe": "Ingredients: 1 cup Can you provide a recipe with strawberries, 1 cup cream, 1 tsp sugar. Instructions: Mix ingredients and serve chilled.",
+    "answer": "Yes"
+  },
+  {
+    "recipe": "Ingredients: 1 cup I need a recipe with garlic, 1 cup basil, can you help, 1 tsp sugar. Instructions: Mix ingredients and serve chilled.",
+    "request": "I need a recipe with garlic and basil, can you help?",
+    "answer": "Yes"
+  },
+  {
+    "recipe": "Ingredients: 1 cup sunflower seed butter, 1/4 cup honey, 1 cup oats. Instructions: Mix ingredients, form bars, and chill in the fridge.",
+    "request": "Can you share a nut-free recipe?",
+    "answer": "Yes"
+  },
+  {
+    "recipe": "Ingredients: 1 cup oat milk, 1 cup oats, 1 banana, 1/4 cup berries. Instructions: Blend oat milk, oats, and banana. Top with berries and serve.",
+    "request": "Can you share a dairy-free recipe?",
+    "answer": "Yes"
+  },
+  {
+    "answer": "Yes",
+    "recipe": "Ingredients: 1 cup cornmeal, 1/2 cup water, 1/4 cup olive oil, pinch of salt. Instructions: Mix ingredients, form flatbreads, and cook on a skillet until golden.",
+    "request": "Can you share a nut-free recipe?"
+  },
+  {
+    "request": "Can you share a dairy-free recipe?",
+    "recipe": "Ingredients: 1 cup almond milk, 1/2 cup chia seeds, 1 tbsp maple syrup. Instructions: Mix ingredients, chill overnight, and serve as pudding.",
+    "answer": "Yes"
+  },
+  {
+    "recipe": "Ingredients: 1 cup chickpeas, 2 tbsp tahini, 1 tbsp olive oil, 1 clove garlic, 1 tsp lemon juice, salt to taste. Instructions: Blend chickpeas, tahini, olive oil, garlic, and lemon juice until smooth. Add salt to taste. Serve with veggies or pita bread.",
+    "answer": "Yes",
+    "request": "Can you share a nut-free recipe?"
+  },
+  {
+    "request": "Do you have a recipe with chocolate and coconut?",
+    "answer": "No",
+    "recipe": "Ingredients: 1 cup apple, 1 cup cinnamon, 1 tsp sugar. Instructions: Mix ingredients and serve chilled."
+  },
+  {
+    "recipe": "Ingredients: 1 cup chickpeas, 2 tbsp tahini, 1 tbsp olive oil, 1 clove garlic, 1 tsp lemon juice, salt to taste. Instructions: Blend chickpeas, tahini, olive oil, garlic, and lemon juice until smooth. Add salt to taste. Serve with veggies or pita bread.",
+    "request": "Can you share a gluten-free recipe?",
+    "answer": "Yes"
+  },
+  {
+    "recipe": "Ingredients: 1 cup chickpeas, 2 tbsp tahini, 1 tbsp olive oil, 1 clove garlic, 1 tsp lemon juice, salt to taste. Instructions: Blend chickpeas, tahini, olive oil, garlic, and lemon juice until smooth. Add salt to taste. Serve with veggies or pita bread.",
+    "request": "Can you share a vegan recipe?",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you share a gluten-free recipe?",
+    "recipe": "Ingredients: 1 cup almond flour, 1/4 cup coconut oil, 1/4 cup honey, 1 tsp vanilla, 1/2 tsp baking powder. Instructions: Mix ingredients, form dough, and bake at 350\u00b0F for 10-12 minutes.",
+    "answer": "Yes"
+  },
+  {
+    "recipe": "Ingredients: 1 block tofu, 2 tbsp soy sauce, 1 tsp sesame oil, 1 cup broccoli, 1 cup rice. Instructions: Marinate tofu in soy sauce and sesame oil for 15 minutes. Saut\u00e9 tofu and broccoli in a pan. Serve over rice.",
+    "request": "Can you share a dairy-free recipe?",
+    "answer": "Yes"
+  },
+  {
+    "recipe": "Ingredients: 1 cup rice flour, 1/2 cup sugar, 1/4 cup butter, 1 egg. Instructions: Mix ingredients, bake at 350\u00b0F for 10-12 minutes.",
+    "request": "Can you share a nut-free recipe?",
+    "answer": "Yes"
+  },
+  {
+    "recipe": "Ingredients: 1 cup oat milk, 1 cup oats, 1 banana, 1/4 cup berries. Instructions: Blend oat milk, oats, and banana. Top with berries and serve.",
+    "answer": "Yes",
+    "request": "Can you share a nut-free recipe?"
+  },
+  {
+    "recipe": "Ingredients: 1 block tofu, 2 tbsp soy sauce, 1 tsp sesame oil, 1 cup broccoli, 1 cup rice. Instructions: Marinate tofu in soy sauce and sesame oil for 15 minutes. Saut\u00e9 tofu and broccoli in a pan. Serve over rice.",
+    "request": "Can you share a vegan recipe?",
+    "answer": "Yes"
+  },
+  {
+    "answer": "No",
+    "request": "Do you have a recipe with oats and banana?",
+    "recipe": "Ingredients: 1 cup apple, 1 cup cinnamon, 1 tsp sugar. Instructions: Mix ingredients and serve chilled."
+  },
+  {
+    "request": "Can you share a dairy-free recipe?",
+    "recipe": "Ingredients: 1 cup almond flour, 1/4 cup coconut oil, 1/4 cup honey, 1 tsp vanilla, 1/2 tsp baking powder. Instructions: Mix ingredients, form dough, and bake at 350\u00b0F for 10-12 minutes.",
+    "answer": "Yes"
+  },
+  {
+    "recipe": "Ingredients: 1 block tofu, 2 tbsp soy sauce, 1 tsp sesame oil, 1 cup broccoli, 1 cup rice. Instructions: Marinate tofu in soy sauce and sesame oil for 15 minutes. Saut\u00e9 tofu and broccoli in a pan. Serve over rice.",
+    "answer": "Yes",
+    "request": "Can you share a nut-free recipe?"
+  },
+  {
+    "request": "Can you share a dairy-free recipe?",
+    "recipe": "Ingredients: 1 cup sunflower seed butter, 1/4 cup honey, 1 cup oats. Instructions: Mix ingredients, form bars, and chill in the fridge.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you share a gluten-free recipe?",
+    "answer": "Yes",
+    "recipe": "Ingredients: 1 cup cauliflower rice, 1/4 cup shredded cheese, 1 egg. Instructions: Mix ingredients, form into a crust, and bake at 400\u00b0F for 15 minutes."
+  },
+  {
+    "request": "Can you share a gluten-free recipe?",
+    "answer": "Yes",
+    "recipe": "Ingredients: 1 cup sunflower seed butter, 1/4 cup honey, 1 cup oats. Instructions: Mix ingredients, form bars, and chill in the fridge."
+  },
+  {
+    "recipe": "Ingredients: 1 cup apple, 1 cup cinnamon, 1 tsp sugar. Instructions: Mix ingredients and serve chilled.",
+    "answer": "No",
+    "request": "Can you share a recipe that includes avocado and lime?"
+  },
+  {
+    "answer": "Yes",
+    "recipe": "Ingredients: 2 cups zucchini noodles, 1/2 cup marinara sauce, 1/4 cup parmesan cheese. Instructions: Cook zucchini noodles, top with sauce and cheese, and serve.",
+    "request": "Can you share a nut-free recipe?"
+  },
+  {
+    "request": "Can you share a keto recipe?",
+    "recipe": "Ingredients: 1 cup cauliflower rice, 1/4 cup shredded cheese, 1 egg. Instructions: Mix ingredients, form into a crust, and bake at 400\u00b0F for 15 minutes.",
+    "answer": "Yes"
+  },
+  {
+    "recipe": "Ingredients: 1 cup cornmeal, 1/2 cup water, 1/4 cup olive oil, pinch of salt. Instructions: Mix ingredients, form flatbreads, and cook on a skillet until golden.",
+    "request": "Can you share a vegan recipe?",
+    "answer": "Yes"
+  },
+  {
+    "recipe": "Ingredients: 1 cup avocado, 1 cup lime, 1 tsp sugar. Instructions: Mix ingredients and serve chilled.",
+    "answer": "Yes",
+    "request": "Can you share a recipe that includes avocado and lime?"
+  },
+  {
+    "answer": "No",
+    "recipe": "Ingredients: 1 cup almond flour, 1/4 cup coconut oil, 1/4 cup honey, 1 tsp vanilla, 1/2 tsp baking powder. Instructions: Mix ingredients, form dough, and bake at 350\u00b0F for 10-12 minutes.",
+    "request": "Can you share a nut-free recipe?"
+  },
+  {
+    "recipe": "Ingredients: 1 cup Do you have a recipe with oats, 1 cup banana, 1 tsp sugar. Instructions: Mix ingredients and serve chilled.",
+    "request": "Do you have a recipe with oats and banana?",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you share a gluten-free recipe?",
+    "answer": "Yes",
+    "recipe": "Ingredients: 1 cup rice flour, 1/2 cup sugar, 1/4 cup butter, 1 egg. Instructions: Mix ingredients, bake at 350\u00b0F for 10-12 minutes."
+  },
+  {
+    "request": "Can you provide a recipe with strawberries and cream?",
+    "answer": "No",
+    "recipe": "Ingredients: 1 cup apple, 1 cup cinnamon, 1 tsp sugar. Instructions: Mix ingredients and serve chilled."
+  },
+  {
+    "answer": "Yes",
+    "request": "Do you have a recipe with chocolate and coconut?",
+    "recipe": "Ingredients: 1 cup Do you have a recipe with chocolate, 1 cup coconut, 1 tsp sugar. Instructions: Mix ingredients and serve chilled."
+  },
+  {
+    "request": "Can you share a gluten-free recipe?",
+    "answer": "Yes",
+    "recipe": "Ingredients: 1 cup almond milk, 1/2 cup chia seeds, 1 tbsp maple syrup. Instructions: Mix ingredients, chill overnight, and serve as pudding."
+  },
+  {
+    "request": "Can you share a gluten-free recipe?",
+    "recipe": "Ingredients: 1 cup cornmeal, 1/2 cup water, 1/4 cup olive oil, pinch of salt. Instructions: Mix ingredients, form flatbreads, and cook on a skillet until golden.",
+    "answer": "Yes"
+  },
+  {
+    "answer": "Yes",
+    "request": "Can you share a dairy-free recipe?",
+    "recipe": "Ingredients: 1 cup cornmeal, 1/2 cup water, 1/4 cup olive oil, pinch of salt. Instructions: Mix ingredients, form flatbreads, and cook on a skillet until golden."
+  },
+  {
+    "request": "Can you share a dairy-free recipe?",
+    "answer": "No",
+    "recipe": "Ingredients: 2 cups zucchini noodles, 1/2 cup marinara sauce, 1/4 cup parmesan cheese. Instructions: Cook zucchini noodles, top with sauce and cheese, and serve."
+  },
+  {
+    "answer": "No",
+    "request": "I need a recipe with garlic and basil, can you help?",
+    "recipe": "Ingredients: 1 cup apple, 1 cup cinnamon, 1 tsp sugar. Instructions: Mix ingredients and serve chilled."
+  },
+  {
+    "request": "Can you share a keto recipe?",
+    "answer": "No",
+    "recipe": "Ingredients: 1 cup almond milk, 1/2 cup chia seeds, 1 tbsp maple syrup. Instructions: Mix ingredients, chill overnight, and serve as pudding."
+  },
+  {
+    "recipe": "Ingredients: 1 block tofu, 2 tbsp soy sauce, 1 tsp sesame oil, 1 cup broccoli, 1 cup rice. Instructions: Marinate tofu in soy sauce and sesame oil for 15 minutes. Saut\u00e9 tofu and broccoli in a pan. Serve over rice.",
+    "request": "Can you share a keto recipe?",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a keto recipe?",
+    "recipe": "Ingredients: 1 cup almond flour, 1/4 cup coconut oil, 1/4 cup honey, 1 tsp vanilla, 1/2 tsp baking powder. Instructions: Mix ingredients, form dough, and bake at 350\u00b0F for 10-12 minutes.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a vegan-friendly lasagna recipe?",
+    "recipe": "Ingredients: 1 box of lasagna noodles (vegan), 2 cups marinara sauce, 1 cup firm tofu, 2 tbsp nutritional yeast, 1 tsp garlic powder, 1 tsp onion powder, 2 zucchinis, thinly sliced. Instructions: Preheat oven to 375°F (190°C). Cook lasagna noodles according to package instructions and set aside. Blend tofu, nutritional yeast, garlic powder, and onion powder to create a ricotta-like texture. In a baking dish, layer marinara sauce, lasagna noodles, tofu ricotta, and zucchini slices. Repeat until ingredients are used up, finishing with marinara sauce. Bake for 25-30 minutes. Let cool for 10 minutes before serving.",
+    "answer": "Yes"
+  },
+  {
+    "request": "I need a gluten-free option for pancakes. Got any ideas?",
+    "recipe": "Ingredients: 1 cup all-purpose flour, 2 large eggs, 1/4 cup almond milk, 1 tsp baking powder, 1 tsp vanilla extract, 1 tbsp maple syrup (optional). Instructions: In a bowl, mix all-purpose flour and baking powder. In another bowl, whisk eggs, almond milk, vanilla extract, and maple syrup. Combine the wet and dry ingredients to form a batter. Heat a non-stick skillet over medium heat and grease lightly. Pour 1/4 cup of batter for each pancake and cook until bubbles form on the surface. Flip and cook for another minute. Serve with fresh fruit or syrup.",
+    "answer": "No"
+  },
+  {
+    "request": "How about a recipe for a low-carb pizza?",
+    "recipe": "Ingredients: 1 medium cauliflower head (riced), 1 cup shredded mozzarella, 1 egg, 1 tsp Italian seasoning, 1/2 cup tomato sauce, 1/2 cup shredded cheese (your choice), toppings (pepperoni, veggies, etc.). Instructions: Preheat oven to 400°F (200°C). Microwave riced cauliflower for 5 minutes and squeeze out excess moisture with a cheesecloth. Mix cauliflower, mozzarella, egg, and Italian seasoning to form a dough. Press into a thin circle on parchment paper. Bake for 15 minutes until golden. Add tomato sauce, cheese, and toppings. Bake for another 10 minutes. Cool before slicing.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Give me a nut-free recipe for cookies, please.",
+    "recipe": "Ingredients: 1 cup all-purpose flour, 1/2 cup almond flour, 1/4 cup chocolate chips, 1/2 cup butter, 1/4 cup sugar, 1 tsp vanilla extract. Instructions: Preheat oven to 350°F (175°C). Mix flour, almond flour, and sugar in a bowl. Add butter and vanilla, mixing until combined. Fold in chocolate chips. Shape dough into balls and place on a baking tray. Bake for 12-15 minutes. Cool and serve.",
+    "answer": "No"
+  },
+  {
+    "request": "Do you have a keto-friendly salad dressing recipe?",
+    "recipe": "Ingredients: 1/2 cup olive oil, 1/4 cup balsamic vinegar, 1 tsp Dijon mustard, 1 clove garlic (minced), 1/2 tsp sugar, 1/4 tsp salt, 1/4 tsp pepper. Instructions: Combine olive oil, balsamic vinegar, Dijon mustard, minced garlic, sugar, salt, and pepper in a small jar. Seal the jar and shake until mixed. Use immediately or refrigerate for up to one week. Shake before use.",
+    "answer": "Yes"
+  },
+  {
+    "request": "I’m looking for a vegetarian soup recipe. Can you help?",
+    "recipe": "Ingredients: 4 large tomatoes (diced), 2 cups vegetable broth, 1/2 cup heavy cream, 1 clove garlic (minced), 1 tbsp olive oil, 1 tsp basil, 1/2 tsp salt, 1/4 tsp pepper. Instructions: Heat olive oil in a pot over medium heat. Sauté garlic until fragrant. Add diced tomatoes and cook for 5 minutes. Pour in vegetable broth, basil, salt, and pepper. Simmer for 15 minutes. Use an immersion blender to puree the soup until smooth. Stir in heavy cream and heat through. Serve warm with bread.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you suggest a dairy-free muffin recipe?",
+    "recipe": "Ingredients: 1 cup oat flour, 1/2 cup coconut sugar, 1/2 cup oat milk, 1/4 cup coconut oil (melted), 1 tsp baking powder, 1 tsp vanilla extract, 1/2 cup chocolate chips (milk-free). Instructions: Preheat oven to 350°F (175°C). Mix oat flour, coconut sugar, and baking powder in one bowl. In another, mix oat milk, coconut oil, and vanilla extract. Combine wet and dry ingredients, folding in chocolate chips. Pour into a muffin tin and bake for 20-25 minutes. Cool before serving.",
+    "answer": "Yes"
+  },
+  {
+    "request": "I need a sugar-free recipe for granola bars.",
+    "recipe": "Ingredients: 2 cups rolled oats, 1 cup dates (blended), 1/2 cup peanut butter, 1/4 cup honey, 1/4 cup sunflower seeds. Instructions: Blend dates in a food processor until smooth. Mix blended dates, oats, peanut butter, honey, and sunflower seeds in a bowl. Press into a lined baking dish and refrigerate for 1 hour. Slice into bars and serve. Store in the fridge.",
+    "answer": "No"
+  },
+  {
+    "request": "Do you know any soy-free stir-fry recipes?",
+    "recipe": "Ingredients: 1 lb chicken breast (sliced), 2 cups mixed vegetables (broccoli, carrots, bell peppers), 2 tbsp olive oil, 2 tbsp soy sauce, 1 tsp garlic powder, salt and pepper to taste. Instructions: Heat olive oil in a large pan over medium-high heat. Add chicken slices and cook until browned. Add vegetables, soy sauce, garlic powder, salt, and pepper. Stir fry for 5-7 minutes until vegetables are tender-crisp. Serve hot.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you provide a vegan mac and cheese recipe?",
+    "recipe": "Ingredients: 2 cups elbow pasta (vegan), 1 cup cashews (soaked), 1/4 cup nutritional yeast, 1 cup almond milk, 1 clove garlic, 1 tsp paprika, 1 tsp mustard, salt to taste. Instructions: Cook pasta according to package instructions. Blend soaked cashews, nutritional yeast, almond milk, garlic, paprika, mustard, and salt until creamy. Drain pasta and mix with the cashew cheese sauce. Heat over medium heat for 2-3 minutes. Serve warm.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Could you share a gluten-free bread recipe?",
+    "recipe": "Ingredients: 2 cups wheat flour, 1 tbsp baking powder, 1/4 tsp salt, 1 cup water. Instructions: Preheat oven to 375°F (190°C). Mix wheat flour, baking powder, and salt in a bowl. Add water and mix until a dough forms. Shape into a loaf and bake for 30-35 minutes. Cool before slicing.",
+    "answer": "No"
+  },
+  {
+    "request": "Do you have a paleo chicken curry recipe?",
+    "recipe": "Ingredients: 1 lb chicken breast, 1 can coconut milk, 1 tbsp curry powder, 1 tsp turmeric, 1/2 tsp ginger, 1 cup cauliflower rice, 2 tbsp olive oil, salt to taste. Instructions: Heat olive oil in a pan. Add chicken and cook until browned. Add curry powder, turmeric, and ginger. Stir well. Pour in coconut milk and simmer for 10 minutes. Serve over cauliflower rice.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you suggest a nut-free brownie recipe?",
+    "recipe": "Ingredients: 1 cup cocoa powder, 1/2 cup almond flour, 1/4 cup sugar, 2 eggs, 1/4 cup coconut oil, 1 tsp vanilla. Instructions: Preheat oven to 350°F (175°C). Combine ingredients in a bowl and mix until smooth. Pour into a greased baking dish and bake for 25 minutes. Cool before slicing.",
+    "answer": "No"
+  },
+  {
+    "request": "What’s a good pescatarian taco recipe?",
+    "recipe": "Ingredients: 1 lb shrimp, 1/2 tsp paprika, 1/2 tsp cumin, 1/4 tsp chili powder, 1/4 tsp salt, 1 tbsp olive oil, 8 corn tortillas, toppings: avocado, lime, cabbage slaw. Instructions: Toss shrimp with spices and olive oil. Cook in a skillet over medium heat for 3-4 minutes per side. Warm tortillas in a separate pan. Fill tortillas with shrimp, avocado slices, lime juice, and cabbage slaw. Serve immediately.",
+    "answer": "Yes"
+  },
+  {
+    "request": "I need a vegan chocolate cake recipe that's rich and moist for my daughter's birthday",
+    "recipe": "Combine almond milk, apple sauce, vegetable oil, vanilla extract with flour, cocoa powder, sugar, and baking soda. Mix well and add apple cider vinegar. Bake at 350F for 30 minutes. Top with vegan chocolate ganache made from dark chocolate and coconut cream.",
+    "answer": "Yes"
+  },
+  {
+    "request": "I have celiac disease and need a gluten-free pasta dish that still tastes like the real thing",
+    "recipe": "Boil regular wheat spaghetti until al dente. Make a classic marinara sauce with garlic, herbs, and San Marzano tomatoes. Finish with fresh basil and parmesan cheese.",
+    "answer": "No"
+  },
+  {
+    "request": "Need a dairy-free ice cream recipe that's creamy and smooth - my kids are lactose intolerant",
+    "recipe": "Blend frozen ripe bananas with vanilla bean, coconut cream, and a touch of maple syrup until silky smooth. Add dairy-free chocolate chips and freeze for 2 hours. Serve with coconut whipped cream and fresh berries.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Doctor says I need to watch my sodium - looking for a flavorful low-sodium soup recipe",
+    "recipe": "Start with high-sodium chicken bouillon cubes dissolved in water. Add vegetables, noodles, and season generously with soy sauce, fish sauce, and additional table salt to taste.",
+    "answer": "No"
+  },
+  {
+    "request": "I'm a vegetarian athlete looking for a high-protein meal with at least 30g of protein",
+    "recipe": "Prepare a power bowl with quinoa, pan-fried tempeh, roasted chickpeas, steamed edamame, and sautéed kale. Top with spiced tahini dressing and pumpkin seeds. Serve with a side of lentil soup for extra protein.",
+    "answer": "Yes"
+  },
+  {
+    "request": "My child's classroom is nut-free - need a safe granola recipe for school snacks",
+    "recipe": "Mix rolled oats with chopped almonds, crushed walnuts, and pecans. Add honey, coconut oil, and almond extract. Bake until golden brown and crispy. Mix in dried fruit and more chopped nuts.",
+    "answer": "No"
+  },
+  {
+    "request": "Looking for a strict paleo breakfast bowl that's filling and nutrient-dense",
+    "recipe": "Cook steel-cut oats with almond milk until creamy. Add mashed banana, cinnamon, and a drizzle of honey. Top with granola and fresh berries.",
+    "answer": "No"
+  },
+  {
+    "request": "Need a Mediterranean-style lunch that's authentic and includes fresh herbs",
+    "recipe": "Toss mixed greens with cucumber, cherry tomatoes, kalamata olives, and feta cheese. Dress with extra virgin olive oil, fresh lemon juice, and herbs. Top with grilled sardines and serve with whole grain pita.",
+    "answer": "Yes"
+  },
+  {
+    "request": "I'm diabetic and need a sugar-free dessert that won't spike my blood sugar",
+    "recipe": "Whip cream cheese with powdered sugar and vanilla extract until fluffy. Fold in whipped cream and layer with berry compote made with sugar and corn syrup. Top with caramel sauce.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you give me a whole30 compliant dinner recipe with chicken and seasonal vegetables?",
+    "recipe": "Season chicken breasts with herbs and spices, then pan-sear until golden. Serve with roasted seasonal vegetables tossed in olive oil and fresh herbs. Finish with a compliant sauce made from coconut milk and fresh herbs.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Need a kosher dinner recipe for Shabbat",
+    "recipe": "Slow-roast a whole chicken with herbs, garlic, and lemon. Serve with roasted potatoes and steamed vegetables. Make a gravy from the pan drippings and herbs.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Looking for a traditional Indian curry recipe that's completely vegetarian",
+    "recipe": "Simmer vegetables in a rich curry sauce made with coconut milk, tomatoes, and authentic spices. Serve with chicken tikka and naan bread.",
+    "answer": "No"
+  },
+  {
+    "request": "I need a high-fiber breakfast that will help with digestion",
+    "recipe": "Mix steel-cut oats, chia seeds, and ground flaxseed. Cook with almond milk and top with fresh berries, nuts, and a drizzle of honey. Add a side of prunes for extra fiber.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you share a traditional Mexican enchilada recipe that's authentic?",
+    "recipe": "Roll corn tortillas around seasoned chicken, top with homemade enchilada sauce, Mexican cheese blend, and fresh cilantro. Serve with rice and refried beans.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Need a cold lunch recipe that stays fresh for work and is protein-rich",
+    "recipe": "Make a quinoa bowl with chickpeas, roasted vegetables, and marinated tofu. Dress with lemon tahini sauce. Pack fresh herbs separately to add before eating.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Looking for a low-FODMAP dinner recipe that won't trigger IBS",
+    "recipe": "Sauté plenty of garlic and onions in butter, then add chicken and broccoli. Season with garlic powder and serve over regular wheat pasta.",
+    "answer": "No"
+  },
+  {
+    "request": "I need a heart-healthy dinner recipe that's low in saturated fat",
+    "recipe": "Pan-fry salmon in butter, serve with cream sauce and deep-fried potatoes. Finish with extra cheese and bacon bits.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you give me a traditional Japanese ramen recipe?",
+    "recipe": "Make authentic ramen broth with pork bones and kombu. Top with chashu pork, soft-boiled egg, nori, and fresh vegetables. Serve with handmade ramen noodles.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Need a halal-friendly curry recipe for a family dinner",
+    "recipe": "Slow cook pork shoulder in a rich curry sauce with coconut milk and spices. Add potatoes and carrots. Serve with wine-braised vegetables.",
+    "answer": "No"
+  },
+  {
+    "request": "Looking for a kid-friendly meal that's nutritious and fun to eat",
+    "recipe": "Make whole grain pasta shapes with hidden vegetable sauce, turkey meatballs, and melted cheese. Serve with a side of colorful roasted vegetables.",
+    "answer": "Yes"
+  },
+  {
+    "request": "I need a quick 15-minute dinner recipe for busy weeknights",
+    "recipe": "Quick-cooking shrimp stir-fry with pre-cut vegetables and prepared sauce. Serve over instant brown rice with sesame seeds.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Can you share a traditional Italian risotto recipe?",
+    "recipe": "Make instant rice with cream and cheese, add some frozen peas and pre-cooked chicken. Microwave until hot.",
+    "answer": "No"
+  },
+  {
+    "request": "Looking for a summer salad recipe with grilled chicken",
+    "recipe": "Toss mixed greens with grilled chicken breast, fresh peaches, goat cheese, and candied pecans. Dress with honey-mustard vinaigrette.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Need an authentic Thai green curry recipe that's spicy",
+    "recipe": "Use store-bought curry paste with coconut milk, add some vegetables and chicken. Serve with white rice.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you give me a recipe for homemade pizza that's better than takeout?",
+    "recipe": "Make fresh pizza dough, top with homemade tomato sauce, fresh mozzarella, and basil. Bake on a hot pizza stone until crispy.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Looking for a raw vegan dessert recipe that's decadent",
+    "recipe": "Process dates, nuts, and cocoa for the base. Top with cashew cream filling and fresh berries. Chill until firm.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Need a high-protein vegetarian meal without soy products",
+    "recipe": "Stir-fry tofu and tempeh with vegetables, serve over rice with soy sauce.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a traditional Spanish paella recipe?",
+    "recipe": "Cook rice with saffron, add mixed seafood, chicken, and chorizo. Add traditional vegetables and seasonings. Cook until rice is crispy on bottom.",
+    "answer": "Yes"
+  },
+  {
+    "request": "Looking for a keto-friendly pizza recipe without cauliflower",
+    "recipe": "Make a traditional pizza with regular wheat flour dough, top with lots of cheese and pepperoni.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a vegan recipe for a creamy pasta dish?",
+    "recipe": "Ingredients: Ground beef, pasta, heavy cream. Cook pasta. Brown ground beef. Mix with heavy cream.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a gluten-free bread recipe?",
+    "recipe": "Ingredients: All-purpose flour, yeast, water. Mix ingredients. Knead dough. Bake in oven.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a low-carb dessert recipe?",
+    "recipe": "Ingredients: Sugar, flour, butter, chocolate. Cream butter and sugar. Add eggs and dry ingredients. Bake in oven.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a healthy breakfast smoothie recipe?",
+    "recipe": "Ingredients: Ice cream, whipped cream, chocolate syrup. Blend all ingredients.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a budget-friendly meal prep recipe?",
+    "recipe": "Ingredients: Wagyu beef, truffles, caviar. Prepare ingredients. Cook ingredients. Assemble meals.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a kid-friendly lunchbox recipe?",
+    "recipe": "Ingredients: Raw oysters, sushi-grade fish, spicy peppers. Prepare ingredients. Pack lunchbox.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a recipe for a refreshing summer salad?",
+    "recipe": "Ingredients: Heavy cream, mayonnaise, bacon bits. Mix ingredients. Chill.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a recipe for a spicy Indian curry?",
+    "recipe": "Ingredients: Pasta, marinara sauce, meatballs. Cook pasta. Prepare sauce. Add meatballs.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a dairy-free ice cream recipe?",
+    "recipe": "Ingredients: Heavy cream, milk, sugar, vanilla extract. Heat milk and sugar. Add cream and vanilla. Freeze.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a low-sodium soup recipe?",
+    "recipe": "Ingredients: Chicken broth (high sodium), soy sauce, fish sauce. Combine ingredients. Heat and serve.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a gluten-free pizza crust recipe?",
+    "recipe": "Ingredients: All-purpose flour, yeast, water. Mix ingredients. Knead dough. Bake in oven.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a vegan cheese sauce recipe?",
+    "recipe": "Ingredients: Butter, flour, milk, cheese. Melt butter, whisk in flour. Gradually add milk. Stir in cheese.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a high-protein vegan meal recipe?",
+    "recipe": "Ingredients: Lettuce, tomato, cucumber. Combine ingredients in a bowl.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a quick and easy breakfast recipe?",
+    "recipe": "Ingredients: Steak, lobster, caviar. Cook steak. Serve with lobster and caviar.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a healthy snack recipe?",
+    "recipe": "Ingredients: Chips, soda, candy. Combine ingredients in a bowl.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a recipe for a light and refreshing salad?",
+    "recipe": "Ingredients: Whiskey, rum, vodka, gin. Mix all ingredients with ice.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a vegan pizza recipe?",
+    "recipe": "Ingredients: Pepperoni, sausage, meatballs. Add to pizza crust. Bake in oven.",
+    "answer": "No"
+  },
+  {
+    "request": "Can you share a recipe for a decadent chocolate cake?",
+    "recipe": "Ingredients: Lettuce, tomato, cucumber. Chop vegetables. Simmer in broth.",
+    "answer": "No"
+  }
+]

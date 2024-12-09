@@ -1,0 +1,222 @@
+[
+  {
+    "prompt": "I need a simple chocolate chip cookie recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Convert that cookie recipe you provided to gluten-free",
+    "expected_tools": ["access_memory", "substitution_filter"]
+  },
+  {
+    "prompt": "https://www.example.com/recipes/lasagna - make this dairy-free",
+    "expected_tools": ["scrape_web_recipe", "substitution_filter"]
+  },
+  {
+    "prompt": "Find me a vegan pizza recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Show me that carrot cake recipe from earlier but without nuts",
+    "expected_tools": ["access_memory", "substitution_filter"]
+  },
+  {
+    "prompt": "I need a keto-friendly bread recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Make this cheesecake recipe egg-free: https://www.example.com/recipes/cheesecake",
+    "expected_tools": ["scrape_web_recipe", "substitution_filter"]
+  },
+  {
+    "prompt": "Find me a sugar-free apple pie recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Convert the previous chocolate mousse to dairy-free",
+    "expected_tools": ["access_memory", "substitution_filter"]
+  },
+  {
+    "prompt": "I want a paleo chicken curry recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "https://www.example.com/recipes/muffins - make these low-carb",
+    "expected_tools": ["scrape_web_recipe", "substitution_filter"]
+  },
+  {
+    "prompt": "Find me a vegetarian shepherd's pie recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Make that tiramisu recipe from before alcohol-free",
+    "expected_tools": ["access_memory", "substitution_filter"]
+  },
+  {
+    "prompt": "I need a nut-free pesto recipe",
+    "expected_tools": ["query_vectordb", "substitution_filter"]
+  },
+  {
+    "prompt": "Convert this pancake recipe to be vegan: https://www.example.com/recipes/pancakes",
+    "expected_tools": ["scrape_web_recipe", "substitution_filter"]
+  },
+  {
+    "prompt": "Find me a low-sodium soup recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Make that previous brownie recipe from earlier sugar-free",
+    "expected_tools": ["access_memory", "substitution_filter"]
+  },
+  {
+    "prompt": "I want a dairy-free ice cream recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "https://www.example.com/recipes/bread - make this keto-friendly",
+    "expected_tools": ["scrape_web_recipe", "substitution_filter"]
+  },
+  {
+    "prompt": "Find me a FODMAP-friendly pasta dish",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Convert that risotto recipe to be vegan",
+    "expected_tools": ["access_memory", "substitution_filter"]
+  },
+  {
+    "prompt": "I need a gluten-free pizza crust recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Make this cake egg-free: https://www.example.com/recipes/cake",
+    "expected_tools": ["scrape_web_recipe", "substitution_filter"]
+  },
+  {
+    "prompt": "Find me an AIP-compliant chicken recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Convert the previous sauce recipe to be nightshade-free",
+    "expected_tools": ["access_memory", "substitution_filter"]
+  },
+  {
+    "prompt": "I want a corn-free tortilla recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "https://www.example.com/recipes/cookies - make these sugar-free",
+    "expected_tools": ["scrape_web_recipe", "substitution_filter"]
+  },
+  {
+    "prompt": "Find me a Whole30 breakfast recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Make that curry recipe from earlier less spicy",
+    "expected_tools": ["access_memory", "substitution_filter"]
+  },
+  {
+    "prompt": "I need a soy-free Asian sauce recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Convert this stir-fry to be oil-free: https://www.example.com/recipes/stirfry",
+    "expected_tools": ["scrape_web_recipe", "substitution_filter"]
+  },
+  {
+    "prompt": "Find me a grain-free granola recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Make that smoothie recipe without bananas",
+    "expected_tools": ["access_memory", "substitution_filter"]
+  },
+  {
+    "prompt": "I want a lectin-free soup recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "https://www.example.com/recipes/pasta - make this gluten-free",
+    "expected_tools": ["scrape_web_recipe", "substitution_filter"]
+  },
+  {
+    "prompt": "Find me a candida diet friendly dessert",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Convert that meatloaf recipe to be egg-free",
+    "expected_tools": ["access_memory", "substitution_filter"]
+  },
+  {
+    "prompt": "I need a histamine-free sauce recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Make this gravy dairy-free: https://www.example.com/recipes/gravy",
+    "expected_tools": ["scrape_web_recipe", "substitution_filter"]
+  },
+  {
+    "prompt": "Find me a coconut-free curry recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Convert the previous dip recipe to be nut-free",
+    "expected_tools": ["access_memory", "substitution_filter"]
+  },
+  {
+    "prompt": "I want an oxalate-free vegetable dish",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "https://www.example.com/recipes/pudding - make this dairy-free",
+    "expected_tools": ["scrape_web_recipe", "substitution_filter"]
+  },
+  {
+    "prompt": "Find me a yeast-free bread recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Make that hot sauce recipe mild",
+    "expected_tools": ["access_memory", "substitution_filter"]
+  },
+  {
+    "prompt": "I need a nightshade-free chili recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Convert this sauce to be corn-free: https://www.example.com/recipes/sauce",
+    "expected_tools": ["scrape_web_recipe", "substitution_filter"]
+  },
+  {
+    "prompt": "Find me a bean-free hummus recipe",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "Make that previous recipe without garlic",
+    "expected_tools": ["access_memory", "substitution_filter"]
+  },
+  {
+    "prompt": "I want a shellfish-free seafood pasta",
+    "expected_tools": ["query_vectordb"]
+  },
+  {
+    "prompt": "https://www.example.com/recipes/icecream - make this sugar-free",
+    "expected_tools": ["scrape_web_recipe", "substitution_filter"]
+  },
+  {
+    "prompt": "Hi, how are you?",
+    "expected_tools": []
+  },
+  {
+    "prompt": "What do you think of cooking? Is it fun?",
+    "expected_tools": []
+  },
+  {
+    "prompt": "What are some good substitutes for baking powder?",
+    "expected_tools": ["substitution_filter"]
+  },
+  {
+    "prompt": "Can you summarize the last message you gave?",
+    "expected_tools": ["access_memory"]
+  }
+]
