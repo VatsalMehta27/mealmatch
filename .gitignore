@@ -163,3 +163,5 @@ cython_debug/
 .DS_Store
 *.zip
 chromadb
+data/scraped_json/food.json
+!/data/scraped_json/food.json.zip
